@@ -15,6 +15,7 @@ Abolutely nothing means *abolutely nothing*. Personal questions, nope. Money, no
 - Bugs & feature requests should be opened on the relevant issue tracker.
 - Support questions are better asked on Stack Overflow.
 - Be civil and polite :)
+- Except that your question will languish in the land of unread...
 
 ### Links
 
