@@ -1,6 +1,6 @@
 # Ask me absolutely nothing!
 
-## [Ask a question](../../issues/new) &nbsp;&nbsp;&nbsp; [Read questions](../../issues?q=is%3Aissue+is%3Aclosed)
+## [Ask a question](../../issues/new) &nbsp;&nbsp;&nbsp; [Read questions](../../issues?q=is%3Aissue+is%3Aclosed) &nbsp;&nbsp;&nbsp; [Hold your breath for a reply](http://hang.leftlogic.com/you-did-that-didnt-you.html?1000000000000&content=yup)
 
 I get a lot of questions by email. I often don't reply. This way I have a repo that everyone can see that I also don't reply.
 
